@@ -137,11 +137,10 @@ const Home = (props) => {
             <h3 className="home-text09 BigCard-Heading">
               <span>IT Advisory</span>
               <br></br>
-              <span> &amp;</span>
-              <br></br>
+              <span> &amp; </span>
               <span> Consulting</span>
             </h3>
-            <span className="home-text15 Card-Text">
+            <span className="home-text14 Card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero.
               <span
@@ -157,7 +156,7 @@ const Home = (props) => {
         </div>
         <div className="home-service-card2">
           <div className="home-card-content2">
-            <h3 className="home-text16 BigCard-Heading">
+            <h3 className="home-text15 BigCard-Heading">
               <span>
                 IT Delivery
                 <span
@@ -167,15 +166,7 @@ const Home = (props) => {
                 />
               </span>
               <br></br>
-              <span>
-                &amp;
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: ' ',
-                  }}
-                />
-              </span>
-              <br></br>
+              <span>&amp; </span>
               <span>
                 QA
                 <span
@@ -185,7 +176,7 @@ const Home = (props) => {
                 />
               </span>
             </h3>
-            <span className="home-text22 Card-Text">
+            <span className="home-text20 Card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero.
               <span
@@ -204,8 +195,8 @@ const Home = (props) => {
       <div className="home-container2">
         <div id="features1" className="home-i-t-h-r-recruitment">
           <div className="home-heading-container">
-            <h2 className="home-text23 Section-Heading">IT HR Recruitment</h2>
-            <span className="home-text24 Section-Text">
+            <h2 className="home-text21 Section-Heading">IT HR Recruitment</h2>
+            <span className="home-text22 Section-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.
             </span>
@@ -214,11 +205,11 @@ const Home = (props) => {
             <div className="home-feature-card">
               <img
                 alt="image"
-                src="https://images.unsplash.com/photo-1619548683455-23b17c3ddc30?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
+                src="https://images.unsplash.com/photo-1619548683455-23b17c3ddc30?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;w=200"
                 className="home-image03"
               />
               <span className="home-heading01 Card-Heading">Why</span>
-              <span className="home-text25 Card-Text">
+              <span className="home-text23 Card-Text">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
                 nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
                 nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -227,11 +218,11 @@ const Home = (props) => {
             <div className="home-feature-card1">
               <img
                 alt="image"
-                src="https://images.unsplash.com/photo-1619547871672-b6562e042c1e?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
+                src="https://images.unsplash.com/photo-1619547871672-b6562e042c1e?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;w=200"
                 className="home-image04"
               />
               <span className="home-heading02 Card-Heading">What</span>
-              <span className="home-text26 Card-Text">
+              <span className="home-text24 Card-Text">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
                 nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
                 nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -240,11 +231,11 @@ const Home = (props) => {
             <div className="home-feature-card2">
               <img
                 alt="image"
-                src="https://images.unsplash.com/photo-1619555241737-9c364cf1fbce?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
+                src="https://images.unsplash.com/photo-1619555241737-9c364cf1fbce?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;w=200"
                 className="home-image05"
               />
               <span className="home-heading03 Card-Heading">How</span>
-              <span className="home-text27 Card-Text">
+              <span className="home-text25 Card-Text">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
                 nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
                 nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -260,10 +251,10 @@ const Home = (props) => {
       </div>
       <div id="features2" className="home-i-t-advisory-consultancy">
         <div className="home-heading-container1">
-          <h2 className="home-text28 Section-Heading">
+          <h2 className="home-text26 Section-Heading">
             IT Advisory &amp; Consultancy
           </h2>
-          <span className="home-text29 Section-Text">
+          <span className="home-text27 Section-Text">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
             odio. Praesent libero. Sed cursus ante dapibus diam.
           </span>
@@ -276,7 +267,7 @@ const Home = (props) => {
               className="home-image06"
             />
             <span className="home-heading04 Card-Heading">Why</span>
-            <span className="home-text30 Card-Text">
+            <span className="home-text28 Card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
               nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -289,7 +280,7 @@ const Home = (props) => {
               className="home-image07"
             />
             <span className="home-heading05 Card-Heading">What</span>
-            <span className="home-text31 Card-Text">
+            <span className="home-text29 Card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
               nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -302,7 +293,7 @@ const Home = (props) => {
               className="home-image08"
             />
             <span className="home-heading06 Card-Heading">How</span>
-            <span className="home-text32 Card-Text">
+            <span className="home-text30 Card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
               nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -319,8 +310,8 @@ const Home = (props) => {
       <div className="home-section-separator3"></div>
       <div id="features3" className="home-i-t-delivery-q-a">
         <div className="home-heading-container2">
-          <h2 className="home-text33 Section-Heading">IT Delivery &amp; QA</h2>
-          <span className="home-text34 Section-Text">
+          <h2 className="home-text31 Section-Heading">IT Delivery &amp; QA</h2>
+          <span className="home-text32 Section-Text">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
             odio. Praesent libero. Sed cursus ante dapibus diam.
           </span>
@@ -329,11 +320,11 @@ const Home = (props) => {
           <div className="home-feature-card6">
             <img
               alt="image"
-              src="https://images.unsplash.com/photo-1619548683455-23b17c3ddc30?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
+              src="https://images.unsplash.com/photo-1619548683455-23b17c3ddc30?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;w=200"
               className="home-image09"
             />
             <span className="home-heading07 Card-Heading">Why</span>
-            <span className="home-text35 Card-Text">
+            <span className="home-text33 Card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
               nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -342,11 +333,11 @@ const Home = (props) => {
           <div className="home-feature-card7">
             <img
               alt="image"
-              src="https://images.unsplash.com/photo-1619547871672-b6562e042c1e?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
+              src="https://images.unsplash.com/photo-1619547871672-b6562e042c1e?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;w=200"
               className="home-image10"
             />
             <span className="home-heading08 Card-Heading">What</span>
-            <span className="home-text36 Card-Text">
+            <span className="home-text34 Card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
               nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -355,11 +346,11 @@ const Home = (props) => {
           <div className="home-feature-card8">
             <img
               alt="image"
-              src="https://images.unsplash.com/photo-1619555241737-9c364cf1fbce?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
+              src="https://images.unsplash.com/photo-1619555241737-9c364cf1fbce?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;w=200"
               className="home-image11"
             />
             <span className="home-heading09 Card-Heading">How</span>
-            <span className="home-text37 Card-Text">
+            <span className="home-text35 Card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
               nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -383,7 +374,7 @@ const Home = (props) => {
           </span>
         </div>
         <div className="home-text-container">
-          <span className="home-text38 Section-Text">
+          <span className="home-text36 Section-Text">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -392,7 +383,7 @@ const Home = (props) => {
             pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
             culpa qui officia deserunt mollit anim id est laborum.
           </span>
-          <span className="home-text39 Section-Text">
+          <span className="home-text37 Section-Text">
             Sed ut perspiciatis unde omnis iste natus error sit voluptatem
             accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
             quae ab illo inventore veritatis et quasi architecto beatae vitae
@@ -418,7 +409,7 @@ const Home = (props) => {
       <div className="home-section-separator5"></div>
       <div id="contact" className="home-contact">
         <div className="home-content-container">
-          <h2 className="home-text40 Section-Heading">Contact us</h2>
+          <h2 className="home-text38 Section-Heading">Contact us</h2>
           <div className="home-locations-container">
             <div className="home-location-1">
               <span className="home-heading11">Bangalore Office</span>
