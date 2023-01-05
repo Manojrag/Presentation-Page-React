@@ -171,14 +171,13 @@ const Home = (props) => {
         <div className="home-service-card">
           <div className="home-card-content">
             <h3 className="home-text027 BigCard-Heading">IT HR Recruitment</h3>
-            <span className="home-text028 Card-Text">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              nec odio. Praesent libero.
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
+            <span className="home-text028">
+              <span className="home-text029 Card-Text">
+                Boutique Recruitment Services across Information Technology (IT)
+                domain.
+              </span>
+              <br></br>
+              <br></br>
             </span>
             <a href="#features1" className="home-link08 button Anchor">
               READ MORE
@@ -187,20 +186,15 @@ const Home = (props) => {
         </div>
         <div className="home-service-card1">
           <div className="home-card-content1">
-            <h3 className="home-text029 BigCard-Heading">
+            <h3 className="home-text032 BigCard-Heading">
               <span>IT Advisory</span>
               <br></br>
               <span> &amp; </span>
               <span> Consulting</span>
             </h3>
-            <span className="home-text034 Card-Text">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              nec odio. Praesent libero.
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
+            <span className="home-text037 Card-Text">
+              Advisory &amp; Consulting services on Architecture, Software
+              Engineering, DevOps, UX, Mobile App development
             </span>
             <a href="#features2" className="home-link09 button Anchor">
               READ MORE
@@ -209,7 +203,7 @@ const Home = (props) => {
         </div>
         <div className="home-service-card2">
           <div className="home-card-content2">
-            <h3 className="home-text035 BigCard-Heading">
+            <h3 className="home-text038 BigCard-Heading">
               <span>
                 IT Delivery
                 <span
@@ -229,7 +223,7 @@ const Home = (props) => {
                 />
               </span>
             </h3>
-            <span className="home-text040 Card-Text">
+            <span className="home-text043 Card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero.
               <span
@@ -262,7 +256,7 @@ const Home = (props) => {
       <div className="home-container2">
         <div id="features1" className="home-i-t-h-r-recruitment">
           <div className="home-heading-container1">
-            <h2 className="home-text054 Section-Heading">IT HR Recruitment</h2>
+            <h2 className="home-text057 Section-Heading">IT HR Recruitment</h2>
           </div>
           <div className="home-cards-container">
             <div className="home-feature-card">
@@ -272,7 +266,7 @@ const Home = (props) => {
                 className="home-image4"
               />
               <span className="home-heading2 BigCard-Heading">Why</span>
-              <span className="home-text055">
+              <span className="home-text058">
                 We know the IT industry as we are a part of IT. We assure first
                 time screen select.
                 <span
@@ -289,36 +283,36 @@ const Home = (props) => {
                 className="home-image5"
               />
               <span className="home-heading3 BigCard-Heading">What</span>
-              <span className="home-text056">
-                <span className="home-text057">
+              <span className="home-text059">
+                <span className="home-text060">
                   Drastically reduce hiring cycle time.
                 </span>
-                <br className="home-text058"></br>
-                <span className="home-text059">
+                <br className="home-text061"></br>
+                <span className="home-text062">
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
                     }}
                   />
                 </span>
-                <br className="home-text060"></br>
-                <span className="home-text061">
+                <br className="home-text063"></br>
+                <span className="home-text064">
                   We take ownership to present you the right talent, resulting
                   in lower overall accquisition costs.
                 </span>
-                <br className="home-text062"></br>
-                <span className="home-text063">
+                <br className="home-text065"></br>
+                <span className="home-text066">
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
                     }}
                   />
                 </span>
-                <br className="home-text064"></br>
-                <span className="home-text065">
+                <br className="home-text067"></br>
+                <span className="home-text068">
                   Faster GTM and lower onboarding cost
                 </span>
-                <span className="home-text066">
+                <span className="home-text069">
                   <span
                     dangerouslySetInnerHTML={{
                       __html: ' ',
@@ -334,7 +328,7 @@ const Home = (props) => {
                 className="home-image6"
               />
               <span className="home-heading4 BigCard-Heading">How</span>
-              <span className="home-text067">
+              <span className="home-text070">
                 <span>
                   Proven track record of sourcing right fit profiles using
                   proprietary outcome based talent search methodology.
@@ -354,14 +348,14 @@ const Home = (props) => {
             </a>
           </div>
           <div className="home-heading-container2">
-            <h2 className="home-text072 Section-Heading">
+            <h2 className="home-text075 Section-Heading">
               <br></br>
               <br></br>
               <span>Candidate Service</span>
             </h2>
           </div>
-          <span className="home-text076">
-            <span className="home-text077">
+          <span className="home-text079">
+            <span className="home-text080">
               Potential Candidates are at the core of the recruitment journey
               for any organization. At SMKR, we offer candidate centric services
               to help the potential candidates to put their best foot forward in
@@ -387,15 +381,15 @@ const Home = (props) => {
       </div>
       <div id="features2" className="home-i-t-advisory-consultancy">
         <div className="home-heading-container3">
-          <h2 className="home-text086 Section-Heading">
+          <h2 className="home-text089 Section-Heading">
             IT Advisory &amp; Consultancy
           </h2>
-          <span className="home-text087">
+          <span className="home-text090">
             <br></br>
             <br></br>
           </span>
         </div>
-        <span className="home-text090">
+        <span className="home-text093">
           <span>
             IT Advisory &amp; Consultancy services across IT Architecture,
             Software Engineering, Performance Engineering, User Experience and
@@ -422,18 +416,18 @@ const Home = (props) => {
       <div className="home-section-separator5"></div>
       <div id="features3" className="home-i-t-delivery-q-a">
         <div className="home-heading-container4">
-          <h2 className="home-text094 Section-Heading">IT Delivery &amp; QA</h2>
+          <h2 className="home-text097 Section-Heading">IT Delivery &amp; QA</h2>
         </div>
-        <span className="home-text095">
+        <span className="home-text098">
           <span>
             SMKR can help organizations by conducting due diligence followed by
             strategy to incubate tailored Centres of Excellence (CoE) for
             various units across IT Delivery
           </span>
-          <br className="home-text097"></br>
-          <br className="home-text098"></br>
-          <span className="home-text099">Key areas of Expertise:</span>
           <br className="home-text100"></br>
+          <br className="home-text101"></br>
+          <span className="home-text102">Key areas of Expertise:</span>
+          <br className="home-text103"></br>
           <span>
             1. Development &amp; delivery of custom web-based &amp; mobile
             applications.
@@ -443,23 +437,23 @@ const Home = (props) => {
               }}
             />
           </span>
-          <br className="home-text102"></br>
+          <br className="home-text105"></br>
           <span>
             2. QA verticals for Functional Testing, Test case Automation,
             Performance Testing and Security Testing.
           </span>
-          <br className="home-text104"></br>
+          <br className="home-text107"></br>
           <span>
             3. DevOps, Software Engineering and Performance Engineering
           </span>
-          <br className="home-text106"></br>
-          <br className="home-text107"></br>
+          <br className="home-text109"></br>
+          <br className="home-text110"></br>
           <span>
             The value-centric models benefit both the services organization and
             their customers.
           </span>
-          <br className="home-text109"></br>
-          <br className="home-text110"></br>
+          <br className="home-text112"></br>
+          <br className="home-text113"></br>
           <br></br>
           <br></br>
         </span>
@@ -473,7 +467,7 @@ const Home = (props) => {
       <div className="home-section-separator7"></div>
       <div id="contact" className="home-contact">
         <div className="home-content-container">
-          <h2 className="home-text113 Section-Heading">Contact us</h2>
+          <h2 className="home-text116 Section-Heading">Contact us</h2>
           <div className="home-locations-container">
             <div className="home-location-1">
               <span className="home-heading5">Bangalore Office</span>
