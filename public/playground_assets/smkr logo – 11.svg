@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="406" height="332" viewBox="0 0 406 332">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#000a4f"/>
+      <stop offset="0.64" stop-color="#464939"/>
+      <stop offset="1" stop-color="#fe0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.544" y1="0.34" x2="-0.086" y2="1.17" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#000a4f"/>
+      <stop offset="0.633" stop-color="#a29b1d"/>
+      <stop offset="1" stop-color="#fe0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.894" y1="0.154" x2="0.093" y2="0.803" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe0"/>
+      <stop offset="0.835" stop-color="#b7ab00"/>
+      <stop offset="1" stop-color="#b7ab00"/>
+    </linearGradient>
+    <clipPath id="clip-SMKR_LOGO_11">
+      <rect width="406" height="332"/>
+    </clipPath>
+  </defs>
+  <g id="SMKR_LOGO_11" data-name="SMKR LOGO – 11" clip-path="url(#clip-SMKR_LOGO_11)">
+    <rect width="406" height="332" fill="#fff"/>
+    <g id="Group_13192" data-name="Group 13192" transform="translate(-133 -281.728)">
+      <g id="Group_13188" data-name="Group 13188" transform="translate(-1 -0.791)">
+        <g id="Group_13187" data-name="Group 13187">
+          <path id="Polygon_1_-_Outline" data-name="Polygon 1 - Outline" d="M130.481,54,46.765,199H214.2L130.481,54m0-30a23.775,23.775,0,0,1,20.785,12l88.912,154a24,24,0,0,1-20.785,36H41.569a24,24,0,0,1-20.785-36L109.7,36A23.775,23.775,0,0,1,130.481,24Z" transform="translate(397 282.519) rotate(90)" fill="#000a4f"/>
+        </g>
+        <path id="Polygon_2" data-name="Polygon 2" d="M101.036,51c13.087-22.667,45.8-22.667,58.89,0l71.591,124c13.087,22.667-3.272,51-29.445,51H58.89c-26.173,0-42.531-28.333-29.445-51Z" transform="translate(229 543.481) rotate(-90)" fill="#fff"/>
+      </g>
+      <g id="Group_13189" data-name="Group 13189" transform="matrix(-0.998, 0.07, -0.07, -0.998, 659.035, 802.02)">
+        <g id="Group_13187-2" data-name="Group 13187" transform="translate(10.295 -17.704) rotate(3)">
+          <path id="Polygon_1_-_Outline-2" data-name="Polygon 1 - Outline" d="M130.481,54,46.765,199H214.2L130.481,54m0-30a23.775,23.775,0,0,1,20.785,12l88.912,154a24,24,0,0,1-20.785,36H41.569a24,24,0,0,1-20.785-36L109.7,36A23.775,23.775,0,0,1,130.481,24Z" transform="translate(397 282.519) rotate(90)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="Group_13176" data-name="Group 13176" transform="translate(491.192 630.491) rotate(-135)">
+        <g id="Group_13179" data-name="Group 13179" transform="translate(237.83 25.633)">
+          <path id="Path_9880" data-name="Path 9880" d="M268.745,24.758c-1.587.076-27.505,1.738-38.141,22.278a39.155,39.155,0,0,0-3.957,21.753" transform="translate(-226.445 -24.758)" fill="url(#linear-gradient-2)"/>
+          <g id="Group_13175" data-name="Group 13175" transform="translate(1.566 0.826)">
+            <path id="Path_9881" data-name="Path 9881" d="M228.042,69.826c1.586-.084,27.5-1.865,38.039-22.453A39.156,39.156,0,0,0,269.936,25.6" transform="translate(-228.042 -25.601)" fill="url(#linear-gradient-2)"/>
+          </g>
+        </g>
+        <g id="Group_13178" data-name="Group 13178" transform="translate(247.334 110.637) rotate(81)">
+          <path id="Path_9879" data-name="Path 9879" d="M0,7.285c1.275.948,22.352,16.122,43.611,7.008A39.152,39.152,0,0,0,60.48,0" transform="translate(0.397 11.422)" fill="url(#linear-gradient-4)"/>
+          <path id="Path_9878" data-name="Path 9878" d="M60.513,10.046c-1.271-.954-22.278-16.225-43.579-7.21A39.151,39.151,0,0,0,0,17.052" transform="translate(0 0)" fill="url(#linear-gradient-4)"/>
+        </g>
+        <g id="Group_13190" data-name="Group 13190" transform="translate(192.954 93.847) rotate(-166)">
+          <path id="Path_9879-2" data-name="Path 9879" d="M0,7.285c1.275.948,22.352,16.122,43.611,7.008A39.152,39.152,0,0,0,60.48,0" transform="translate(0.397 11.422)" fill="url(#linear-gradient-4)"/>
+          <path id="Path_9878-2" data-name="Path 9878" d="M60.513,10.046c-1.271-.954-22.278-16.225-43.579-7.21A39.151,39.151,0,0,0,0,17.052" transform="translate(0 0)" fill="url(#linear-gradient-4)"/>
+        </g>
+      </g>
+      <text id="SMKR_Consultancy" data-name="SMKR Consultancy" transform="translate(133 575)" font-size="42" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">SMKR Consultancy</tspan></text>
+    </g>
+  </g>
+</svg>
